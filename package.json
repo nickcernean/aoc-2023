@@ -1,0 +1,12 @@
+{
+  "name": "aoc-2023",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AOC_3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
